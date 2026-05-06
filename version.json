@@ -1,0 +1,8 @@
+{
+  "min_supported_ios": 18,
+  "min_supported_android": 29,
+  "min_app_version_ios": 1,
+  "min_app_version_android": 1,
+  "force_update": false,
+  "message": "A new version is available."
+}

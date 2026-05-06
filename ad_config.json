@@ -1,0 +1,8 @@
+{
+  "ads_enabled": true,
+  "interstitial_frequency": 3,
+  "rewarded_enabled": true,
+  "banner_enabled": true,
+  "admob_enforced": true,
+  "notes": "Adjust frequency carefully."
+}
