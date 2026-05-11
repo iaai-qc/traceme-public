@@ -1,0 +1,7 @@
+{
+  "block_if_sideloaded": true,
+  "block_if_jailbroken": true,
+  "block_if_no_play_services": true,
+  "block_if_debuggable": true,
+  "message_key": "piracy_detected"
+}
