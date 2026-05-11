@@ -4,5 +4,5 @@
   "min_app_version_ios": 1,
   "min_app_version_android": 1,
   "force_update": false,
-  "message": "A new version is available."
+  "message": "update_required"
 }

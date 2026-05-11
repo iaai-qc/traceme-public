@@ -4,5 +4,5 @@
   "rewarded_enabled": true,
   "banner_enabled": true,
   "admob_enforced": true,
-  "notes": "Adjust frequency carefully."
+  "notes": "ads_adjust_frequency"
 }
